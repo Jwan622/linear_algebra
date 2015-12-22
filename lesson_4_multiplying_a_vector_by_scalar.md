@@ -1,4 +1,4 @@
-### you can multiply vectors by scalars
+### You can multiply vectors by scalars
 
 When you multiply a vector by a positive scalar, the direction is the same but you do change the magnitude.
 
