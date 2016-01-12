@@ -15,5 +15,7 @@ each component of the vector, add the squares, square root it, and it should = 1
 
 
 Extra work:
-
 ![Lesson_6_2](lesson_6_2.jpeg)
+
+Sample problem of adding vectors using component form:
+![lesson_6_3](lesson_6_3.jpeg)
