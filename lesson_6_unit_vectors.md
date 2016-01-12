@@ -16,4 +16,4 @@ each component of the vector, add the squares, square root it, and it should = 1
 
 Extra work:
 
-![lesson_6_2](lesson_6_2.jpeg)
+![Lesson_6_2](Lesson_6_2.jpeg)
