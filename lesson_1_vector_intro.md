@@ -24,9 +24,6 @@ The first coordinate represents how much we're moving in the horizontal directio
 coordinate represents how much we're moving in the vertical direction.
 
 ![lesson_1](lesson_1.jpeg)
-![charts](lesson_1_vector_intro.JPG)
-
-
 
 #### Key takeaways:
 1. Vectors with multiple dimensions are tough to visually represent. This notation as show in the image helps.

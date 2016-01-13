@@ -19,4 +19,4 @@ you can at least talk about it mathematically with notation like R^7. The 7-tupl
 **Question:** Is it even possible to visualize in more than 3 dimensions?
 Sample answer: Depends how you look at dimensions. For in space dimensions I think 3 is the maximum, however time, temperature, or any other variable (even mass, forces, moments, etc.) could be a dimension in the Nth space you are building or calculating in.
 
-![real_coordinate_plane](lesson_2_real_coordinate_plane.JPG)
+![lesson_2](lesson_2.jpeg)
