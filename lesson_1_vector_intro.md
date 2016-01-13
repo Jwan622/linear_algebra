@@ -23,7 +23,9 @@ V = (5,0)
 The first coordinate represents how much we're moving in the horizontal direction, The second
 coordinate represents how much we're moving in the vertical direction.
 
+![lesson_1](lesson_1.jpeg)
 ![charts](lesson_1_vector_intro.JPG)
+
 
 
 #### Key takeaways:
