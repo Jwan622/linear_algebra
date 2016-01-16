@@ -3,6 +3,8 @@
 V = span(v1, v2, v3, v4....vn)
 
 Remember the span of any set of vectors is a valid subspace.
+The span of a set of vectors contains the 0 vector, and is closed under multiplication and addition. So the span of vectors is a valid subspace.
+
 **Span** = all the linear combinations of the vectors. All the combinations using different constants. Multiply each vector by any constant and take all of those combinations is equal to the span.
 
 If the span of the set of vectors = to the subspace and the vectors are linearly independent, you can say the set of vectors is a basis for the subspace.
