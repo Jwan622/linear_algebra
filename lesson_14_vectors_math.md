@@ -1,7 +1,19 @@
 Showing properties now of vector math and vector proofs.
 ![lesson_14_1](lesson_14_1.jpeg)
 
-Commutative, distributive and Associative properties of vectors:
+## Length:
+The length or magnitude or norm of the vector a is denoted by ‖a‖ or, less commonly, |a|, which is not to be confused with the absolute value (a scalar "norm").
+
+The length of the vector a can be computed with the Euclidean norm:
+
+\left\|\mathbf{a}\right\|=\sqrt{{a_1}^2+{a_2}^2+{a_3}^2}
+
+which is a consequence of the Pythagorean theorem since the basis vectors e1, e2, e3 are orthogonal unit vectors.
+This happens to be equal to the square root of the dot product, discussed below, of the vector with itself:
+
+\left\|\mathbf{a}\right\|=\sqrt{\mathbf{a}\cdot\mathbf{a}}.
+
+### Commutative, distributive and Associative properties of vectors:
 ![lesson_14_2](lesson_14_2.jpeg)
 
 Additional notes:
