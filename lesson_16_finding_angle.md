@@ -15,3 +15,7 @@ Proof of that:
 
 Perpendicular, orthogonal angles:
 ![lesson_16](lesson_16_2.jpeg)
+
+
+proof from law of cosines to the angle between two vectors:
+![lesson_16_3](lesson_16_3.jpeg)
