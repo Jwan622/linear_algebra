@@ -7,6 +7,11 @@ The dot product of the two vectors = the product of the lengths of the two vecto
 First laws of sines and cosines reviewed:
 ![laws_cosines_sines](law_sines_cosines.jpeg)
 
+The law of cosines is like a broader pythagorean theorem because the angle in between the two sides doesn't have to be a right angle.
+
 
 Proof of that:
 ![lesson_16](lesson_16.jpeg)
+
+Perpendicular, orthogonal angles:
+![lesson_16](lesson_16_2.jpeg)
