@@ -13,6 +13,14 @@ This happens to be equal to the square root of the dot product, discussed below,
 
 \left\|\mathbf{a}\right\|=\sqrt{\mathbf{a}\cdot\mathbf{a}}.
 
+
+## Dot product
+The dot product between two vectors is based on the projection of one vector onto another. Let's imagine two vectors a and b and we want to calculate how much of a is pointing in the same direction as the vector b. We want a quantity that would be positive if the two vectors are pointing in similar directions, zero if they are perpendicular, and negative if the two vectors are pointing in nearly opposite directions. We will define the dot product between the vectors to capture these quantities.
+
+But first, notice that the question “how much of a is pointing in the same direction as the vector b” does not have anything to do with the magnitude (or length) of b; it is based only on its direction.
+
+The dot product of a with unit vector u, denoted a⋅u, is defined to be the projection of a in the direction of u, or the amount that a is pointing in the same direction as unit vector u. 
+
 ### Commutative, distributive and Associative properties of vectors:
 ![lesson_14_2](lesson_14_2.jpeg)
 
