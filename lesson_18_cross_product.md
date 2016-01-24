@@ -9,9 +9,15 @@
 5. Equation:
 ![lesson_18_3](lesson_18_3.gif)
 
+This is not an easy formula to remember.  There are two ways to derive this formula.  Both of them use the fact that the cross product is really the determinant of a 3x3 matrix.  If you don’t know what this is that is don’t worry about it.  You don’t need to know anything about matrices or determinants to use either of the methods.  The notation for the determinant is as follows,
+![lesson_18_4](lesson_18_4.gif)
 
-The equation for the cross product is messy. Oof. Here it is
+The first row is the standard basis vectors and must appear in the order given here.  The second row is the components of  and the third row is the components of .  Now, let’s take a look at the different methods for getting the formula.
 
+
+
+
+Here are my hand-written notes:
 ![lesson_18](lesson_18_1.jpeg)
 ![lesson_18_2](lesson_18_2.jpeg)
 
