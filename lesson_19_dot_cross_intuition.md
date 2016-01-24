@@ -2,3 +2,5 @@
 
 Dot product:
 ![lesson_19](lesson_19_1.jpeg)
+
+Cross product:
