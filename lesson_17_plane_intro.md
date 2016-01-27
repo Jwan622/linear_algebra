@@ -14,3 +14,7 @@ You can also find the equation for a plane if you're given a vector that is perp
 
 continued:
 ![lesson_17_2](lesson_17_2.jpeg)
+
+
+Also read:
+[wiki on plane definition](https://en.wikipedia.org/wiki/Plane_(geometry)#Point-normal_form_and_general_form_of_the_equation_of_a_plane)
